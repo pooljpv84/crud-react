@@ -1,4 +1,5 @@
 "# crud-react" 
+```
 # Instalar dependencias
 npm install
 
@@ -10,3 +11,4 @@ npm run dev
 
 # Ejecutar para production
 npm run build
+```
