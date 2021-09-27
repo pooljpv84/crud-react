@@ -21,6 +21,12 @@ python empleados/manage.py runserver
 
 
 
-###Ejecutar frontend
+### Ejecutar frontend
 
 npm run dev
+
+
+### Abrir la aplicacion:
+
+Ir al navegador y ejecutar:
+http://127.0.0.1:8000/
