@@ -1,7 +1,10 @@
-##CRUD CON REACT
-###Autor: Paul Velasco
-####Frontend: React
-####Backend: Django
+## CRUD CON REACT
+
+### Autor: Paul Velasco
+
+#### Frontend: React
+
+#### Backend: Django
 
 ## Comenzando 🚀
 
