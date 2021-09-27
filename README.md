@@ -6,6 +6,11 @@
 
 #### Backend: Django
 
+## Video de instalación y ejecución del CRUD:
+
+* [DESCARGAR VIDEO FUNCIONAL](https://mega.nz/file/a0A3wYDS#s98TILaiXgGvIsrd2pVydDjwQrh-d_Rvpi0tAu-iqv8)
+
+
 ## Comenzando 🚀
 
 1. Descargar todo el contenido de este repositorio
