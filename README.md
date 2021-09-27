@@ -16,7 +16,10 @@
    
 ### Arrancar el servidor de Backend:
 
-python leadmanager/manage.py runserver
+
+python empleados/manage.py runserver
+
+
 
 ###Ejecutar frontend
 
