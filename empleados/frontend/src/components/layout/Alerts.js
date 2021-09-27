@@ -24,6 +24,7 @@ export class Alerts extends Component {
         if (message !== prevProps.message) {
           if (message.deleteTrabajador) alert.success(message.deleteTrabajador);
           if (message.addTrabajador) alert.success(message.addTrabajador);
+          if (message.updateTrabajador) alert.success(message.updateTrabajador);
           
         }
       }
